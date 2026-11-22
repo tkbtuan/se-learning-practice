@@ -1,0 +1,5 @@
+git switch -c feature/java-basics 
+- để tạo 1 nhánh mới trên git và chuyển qua nhánh đó thực hiện 
+
+git switch main để chuyển qua lại main
+
